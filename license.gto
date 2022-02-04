@@ -1,0 +1,15 @@
+GTOa (3)
+
+09b284ffe7ff406b261a296ca228ae7cbd5cdeb9 : License (2)
+{
+    license
+    {
+        string package = "rv"
+        string version = "3.*.*"
+        string expires = "permanent"
+        string updatesUntil = "permanent"
+        string hostID = "80:E8:2C:A2:8B:02"
+        string issued = "22-Jun-2021"
+        string reason = "whocares"
+    }
+}
